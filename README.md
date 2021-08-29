@@ -1,1 +1,1 @@
-# NLP_SelfStudying
+# Language : KOREAN
